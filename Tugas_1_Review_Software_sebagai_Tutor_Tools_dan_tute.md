@@ -1,3 +1,7 @@
+> Nama        : Khairul Fuad
+> NIM         : 2110131310002
+> Mata Kuliah : Pengajaran Berbantuan Komputer
+
 # Software Belajar coding : Mimo
 
 ## Mimo sebagai tutor
