@@ -106,3 +106,8 @@ untuk menyesuaikan pemahaman pengguna dengan materi yang diberikan
 ![](/MImo/pilihan%20bahasa%203.jpg)
 ![](/MImo/pilihan%20bahasa%202.jpg)
 ![](/MImo/pilihan%20bahasa.jpg)
+
+
+### link website mimo
+
+[website mimo klik disini](https://mimo.org/thank-you-survey?double_optin=true&utm_campaign=1000229&utm_content=1002039&utm_medium=email_action&utm_source=email)
